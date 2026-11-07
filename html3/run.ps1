@@ -1,0 +1,2 @@
+
+& npx lite-server
